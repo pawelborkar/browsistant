@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+body{
+	font-family: 'Redressed', cursive;
+	background: rgb(131,58,180);
+	background: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);  
+}
+.content{
+	text-decoration: none;
+	text-align: center;
+	font-size: 60px;
+	color: #fff;
+}
+
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+h3{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+button{
+	font-size: large;
+	font-family: 'Redressed', cursive;
+
+	color: rgb(89, 0, 255);
+	height: 3rem;
+	width: 12rem;
+	border: 3px solid rgb(59, 59, 59);
+	border-radius: 26px;
+	background-color: rgb(255, 251, 0);
+}
+button:hover{
+	background-color: aquamarine;
+}
