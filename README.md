@@ -5,7 +5,7 @@
 *Your in browser assistant✨*
 
 <br>
-<img src= "./overview.png">
+<img src= "https://raw.githubusercontent.com/PawelBorkar/browsistant/master/Overview.png">
 </div><br>
 
 # Installation & Use
